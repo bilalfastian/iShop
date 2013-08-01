@@ -11,7 +11,7 @@ Clothes Shopping Application for iPhone
       <img src="https://raw.github.com/bilalnazir90/iShop/master/Screenshots/Main_Screen.png"/>
     </td>
     <td>
-    <img src="https://raw.github.com/bilalnazir90/iShop/master/Screenshots/women_clothesCategories.png.png"/>
+    <img src="https://raw.github.com/bilalnazir90/iShop/master/Screenshots/women_clothesCategories.png"/>
     </td>
   <tr>
 </table>
